@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skb23
-- 👀 I’m interested in ...Java,Spring,Python,C++,Webapps,.. environment, Indian culture and teaching less privileged kids.
+- 👀 I’m interested in ...Java,Angular,Spring,Python,C++,Webapps,.. environment, Indian culture and teaching less privileged kids.
 - 🌱 I’m currently learning ...All of above
-- 💞️ I’m looking to collaborate on ...  Webapp projects
+- 💞️ I’m looking to collaborate on ...  WebApp projects
 - 📫 How to reach me ... email: shweta2396@gmail.com
 
 <!---

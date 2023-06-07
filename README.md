@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @skb23
-- 👀 I’m interested in ...Java,Angular,Spring,Python,C++,Webapps,.. environment, Indian culture and teaching less privileged kids.
+- 👋 Hi, I’m Shweta @skb23
+- 👀 I’m interested in ...BigData,Data Anlysis,Java,Python,Webapps,AWS,Azure.. environment, Indian culture and teaching under privileged kids.
 - 🌱 I’m currently learning ...All of above
-- 💞️ I’m looking to collaborate on ...  WebApp projects
+- 💞️ I’m looking to collaborate on ...  Data Analysis projects
 - 📫 How to reach me ... email: shweta2396@gmail.com
 
 <!---
